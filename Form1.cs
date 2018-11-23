@@ -31,8 +31,8 @@ namespace automateReport
             btExport.Enabled = false;
             txtServerName.Text = @"DESKTOP-MPK8RUP\SQLEXPRESS";
             txtDatabaseName.Text = "TestSecur";
-            txtID.Text = "feen";
-            txtPass.Text = "210249";
+            txtID.Text = "*********";
+            txtPass.Text = "*********";
             txtOutputTable.Text = "CAL";
             txtCalTable.Text = "ExcelODS";
         }
